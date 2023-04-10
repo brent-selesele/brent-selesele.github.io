@@ -7,7 +7,7 @@ body {
   background-size: cover;
 }
 
-h1, h3 {
+h1, h3, h4 {
   text-align: center;
   color: black;
   padding: 10px;
@@ -24,13 +24,13 @@ header {
 }
 
 .intro {
-  background-color:rgba(255, 255, 255, 0.358);
+  background-color:rgba(255, 255, 255, 0.721);
   padding: 10px;
   border-radius: 3em;
   min-height: 30em;
 }
 
-.intro-text { 
+p { 
   text-align: center;
 }
 
@@ -48,7 +48,7 @@ ul {
   flex-direction: row;
   list-style-type: none;
   justify-content: space-between;
-  width: 30%;
+  width: 40%;
   margin-right: auto;
   margin-left: auto;
   padding: 0;
